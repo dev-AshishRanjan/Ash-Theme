@@ -3,6 +3,7 @@
   "displayName": "Ash Theme",
   "description": "Ash Theme is a dark theme specially designed for developers",
   "version": "0.0.1",
+  "publisher": "KumarAshishRanjan",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -28,6 +29,11 @@
         "label": "Ash Theme Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Ash Theme-color-theme.json"
+      },
+      {
+        "label": "Ash Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/Ash Light Theme-color-theme.json"
       }
     ]
   },

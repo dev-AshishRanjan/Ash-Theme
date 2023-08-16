@@ -21,10 +21,12 @@
 		"editor.inactiveSelectionBackground": "#00434b",
 		"editor.foldBackground": "#00383e7e",
 		"editor.findMatchBackground": "#006d79",
-		"tab.inactiveBackground": "#002b2f",
+		"tab.inactiveBackground": "#002327",
 		"terminal.background": "#001c1f",
 		"terminal.foreground": "#496977",
 		"menubar.selectionBackground": "#496977",
+    "tab.activeBorder": "#00c3ff",
+		"tab.activeBackground": "#001c1f",
 	},
 	"tokenColors": [
 		{
