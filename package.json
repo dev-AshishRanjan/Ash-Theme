@@ -1,11 +1,24 @@
 {
-  "name": "ash_theme",
+  "name": "ash-theme",
   "displayName": "Ash Theme",
   "description": "Ash Theme is a dark theme specially designed for developers",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-AshishRanjan/Ash-Theme"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "dark theme",
+    "Ash theme",
+    "Kumar Ashish Ranjan",
+    "dark Ash theme",
+    "light Ash theme"
+  ],
   "categories": [
     "Themes"
   ],
@@ -17,5 +30,8 @@
         "path": "./themes/Ash Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
