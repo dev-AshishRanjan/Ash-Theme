@@ -27,6 +27,8 @@
 		"menubar.selectionBackground": "#496977",
     "tab.activeBorder": "#00c3ff",
 		"tab.activeBackground": "#001c1f",
+    "statusBar.background": "#002327",
+    "statusBar.foreground": "#7cb3ca",
 	},
 	"tokenColors": [
 		{
